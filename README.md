@@ -3,7 +3,7 @@
 - :books: I'm studying computer science at Binus University
 - 🔭 I’m currently working on Binus University
 - 🌱 I’m currently learning Gongular
-- 👯 I’m looking to collaborate with other computer science students
+- 👯 I’m looking to collaborate with other students
 
 ### Connect with me:
 
