@@ -1,7 +1,7 @@
 ### Hello there, nicotanzil here👋 
 
 - :books: I'm studying computer science at Binus University
-- 🔭 I’m currently working on Binus University
+- 🔭 I’m currently working and studying at Binus University
 - 🌱 I’m currently learning Web Development Tools
 - 👯 I’m looking to collaborate with other students
 
